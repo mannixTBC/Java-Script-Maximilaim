@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+  }
+  
+  .Red{
+    color:red;
+  }
+  .Bold{
+    font-weight: bold;
+  }
+  
+  .Button{
+    background-color: green;
+    color: white;
+    font:inherit;
+    border:1px solid blue;
+    padding: 8px;
+    cursor:pointer;
+  }
+  .Person{
+    background-color: indigo;
+  }
